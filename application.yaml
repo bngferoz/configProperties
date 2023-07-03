@@ -1,4 +1,3 @@
-#test config
 eureka:
   instance:
     prefer-ip-address: true
